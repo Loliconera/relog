@@ -1,5 +1,5 @@
 {
-	"disableAutoUpdate": false,
+	"disableAutoUpdate": true,
 	"name": "relog",
 	"author": "valkyr1e / Snug / wuaw / TerableCoder",
 	"description": "Switch character fast",
