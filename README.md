@@ -1,11 +1,11 @@
 relog
 ===
-## Usage
-- `!relog {name}` relog to `{name}`
+## Uso
+- `!relog {name}` volver a iniciar sesión en `{name}`
 
-- `!relog {number}` relog to the n-th character from your selection list.
+- `!relog {number}` volver a iniciar sesión en el n-th personaje de su lista de selección.
 
-- `!relog nx` relog to the next character in your list.
+- `!relog nx` vuelva a iniciar sesión en el siguiente personaje de su lista.
 
-## Known Issues
-- If your character gets hit within 10 seconds of using `!relog`, the client and server state will be desynced and you will have to restart client.
+## Problemas conocidos
+- Si tu personaje recibe un golpe dentro de los 10 segundos de uso `!relog`, el estado del cliente y del servidor se desincronizará y tendrás que reiniciar el cliente.

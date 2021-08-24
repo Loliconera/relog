@@ -1,8 +1,8 @@
 {
-	"disableAutoUpdate": true,
-	"name": "relog",
-	"author": "valkyr1e / Snug / wuaw / TerableCoder",
-	"description": "Switch character fast",
-	"version": "1.0",
-	"servers": ["https://raw.githubusercontent.com/TerableCoder/relog/master/"]
+    "disableAutoUpdate": false,
+    "name": "relog",
+    "author": "valkyr1e / Snug / wuaw / TerableCoder / Neko",
+    "description": "Cambiar de personaje rápidamente",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/Loliconera/relog/master/"]
 }
