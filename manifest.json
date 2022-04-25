@@ -2,7 +2,7 @@
     "files": {
         "README.md": "56d5e06a7b248e89273a330a063d6d06c6a250649af9c9cc11cfcff21ac6ddae",
         "index.js": "6074d271e204c1e5f7e156dbea0db04e04821c7087240b1ff79c10c32bc21c42",
-        "module.json": "7e30209c8d0f06c188f72793c1f662e3dbca09c9e0cb123677f5e5abf1ae6aad"
+        "module.json": "0ae8de4c1cb6cf75c1df7331c9b40feb53ac2ca0e11fb5ff500db13c5b10ec1e"
     },
     "defs": {
         "C_RETURN_TO_LOBBY": 1,

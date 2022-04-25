@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "relog",
     "author": "valkyr1e / Snug / wuaw / TerableCoder / Neko",
     "description": "Cambiar de personaje rápidamente",
